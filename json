@@ -1,0 +1,5 @@
+[
+  {"input": "The sky is green. True or False?", "target": "False"},
+  {"input": "The capital of France is <mask>.", "target": "Paris"},
+  {"input": "What is the capital of France? A) Madrid B) Rome C) Paris D) Berlin", "target": "C"}
+]
